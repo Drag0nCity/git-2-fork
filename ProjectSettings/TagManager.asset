@@ -3,21 +3,22 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - PatrolPoint
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - Player
+  - Enemy
   - Water
   - UI
-  - Enemy
-  - EnemyHitbox
-  - Environment
-  - Projectile
-  - Interactive
-  - Pickup
-  - Door
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
   - 
   - 
   - 
