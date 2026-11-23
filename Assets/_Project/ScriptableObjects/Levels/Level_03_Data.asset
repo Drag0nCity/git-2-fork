@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e7928c5b54b6414fb88943518b1d1c7, type: 3}
+  m_Name: Level_03_Data
+  m_EditorClassIdentifier: 
+  levelNumber: 3
+  levelName: Such a pretty place.
+  levelPrefab: {fileID: 4272991627947245524, guid: 60e146b468ee5cf499c876b0d4b5ef03, type: 3}
+  gridWidth: 7
+  gridHeight: 7
+  cellSize: 1
+  useMoveLimit: 0
+  maxMoves: 12
+  skyboxMaterial: {fileID: 2100000, guid: 67950864b84c5db4f9eee7ca51c85571, type: 2}
